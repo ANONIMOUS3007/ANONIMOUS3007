@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ANONIMOUS3007
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+#sobre eu-
+- 👀 I’m interested in nada
+- 🌱 I’m currently learning num sei
+- 💞️ I’m looking to collaborate on nada
+- 📫 How to reach me num sei
 
 <!---
 ANONIMOUS3007/ANONIMOUS3007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
